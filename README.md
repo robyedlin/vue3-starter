@@ -1,10 +1,9 @@
 Project created by running `npm init vue@latest`, https://github.com/vuejs/create-vue-templates/tree/main/with-tests
 
 Procedure to produce error on fresh linux install (with all cypress system requirements):
-
-`cd vue-project`
-`npm install`
-`npm run test:unit:ci`
+- `cd vue-project`
+- `npm install`
+- `npm run test:unit:ci`
 
 Error: 
 
